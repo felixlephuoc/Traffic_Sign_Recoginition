@@ -403,7 +403,7 @@ X_train_group_by_label_count.plot(kind='bar', figsize=(15,17))
 
 
 
-![png](./images/output_16_1_.png)
+![png](./images/output_16_1.png)
 
 
 This confirms the significant class imbalance we observed earlier. At this stage we will not attempt to address it.
