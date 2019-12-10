@@ -1,7 +1,7 @@
 
 # Project: Build a Traffic Sign Recognition Classifier with 98% Accuracy
 
-![icon_image](./images/softmax_probability.png)
+![icon_image](./images/a_softmax_probability.png)
 
 This project presents a deep learning architecture that can identify traffic signs with close to 98% accuracy on the test set. We start from building a simple CNN model, and later on apply different image processing techniques such as Grayscale Conversion, Normalisation, Histogram Equalization and Data Augmentation to see how they can enhance the model's performance. Along the way, we also try out several Dropout values to imporove the model's accuracy on test set.
 
